@@ -1,0 +1,16 @@
+{
+  "name": "desafioqa",
+  "version": "1.0.0",
+  "description": "Desafio QA BuildBox",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Lucas Vasconcelos",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0",
+    "cypress-file-upload": "^5.0.8",
+    "mochawesome": "^7.1.3"
+  }
+}
